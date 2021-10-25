@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: url(https://i.postimg.cc/9fMG1tb6/pattern.png), lightskyblue;
+    background-size: contain;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+body main,footer{
+    width: 80%;
+    margin: auto;
+}
+
+header img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    top: 70px;
+}
+
+main h4{
+    color: lightslategray;
+}
+
+h4 span{
+    color: #2bcded;
+}
+
+main>p{
+    color: lightslategray;
+    font-size: 12px;
+}
+
+.images-desc{
+    font-size: 12px;
+}
+
+main p{
+    margin-bottom: 20px;
+    
+}
+table{
+    background-color:#91e7f8;
+    border-spacing: 0px;
+    margin-bottom: 20px;
+}
+
+thead{
+    background-color:#0dbbdd;
+    color: white;
+}
+
+.list{
+    margin-bottom: 20px;
+}
+.terza{
+    width: 50%;
+}
+
+.seconda{
+    background-color: white;
+}
+
+h3{
+    color: lightslategray;
+}
+
+footer div{
+    color: white;
+    font-size: large;
+    background-size: contain;
+    height: 150px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+footer p{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#monitor{
+    background-image: url(https://i.postimg.cc/1t7G29y5/monitor.jpg);
+}
+#graph{
+    background-image: url(https://i.postimg.cc/25m7BcHm/graph.jpg);
+}
+
+p span{
+    background: yellow;
+}
